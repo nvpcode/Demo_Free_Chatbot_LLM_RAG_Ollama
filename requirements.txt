@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+langchain
+langchain-community
+docx2txt
+faiss-cpu
+rank_bm25
+langchain_ollama
