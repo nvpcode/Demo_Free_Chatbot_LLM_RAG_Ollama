@@ -56,34 +56,34 @@ Người dùng ↔️ Streamlit UI ↔️ Cache Manager ↔️ LangChain Agent  
 
 ## 🧱 Cấu trúc thư mục
 ```
-├── main.py # Giao diện chính và điều khiển Streamlit
-├── cache_communicate/ # Hệ thống cache thông minh
-│ └── caching_communicate.py # Cache manager với dual-thread
-├── models/ # Models và LLM
-│ ├── llm.py # LLM interface và functions
-│ └── embedder.py # Embedding model configuration
-├── retriever/ # Retrieval system
-│ └── retriever.py # Hybrid retriever (FAISS + BM25)
-├── rerank/ # Reranking system
-│ └── reranker.py # Cross-encoder reranker
-├── chunks_data/ # Data processing
-│ ├── load_data.py # Data loading utilities
-│ └── split_chunks.py # Document chunking methods
-├── benchmark_RAG/ # Evaluation system
-│ ├── simulation_data_for_eval/ # Test data for evaluation
-│ └── results_eval/ # Evaluation results
-├── ragas_eval.py # RAGAS evaluation pipeline
-├── retrieval_eval.py # Retrieval evaluation
-├── generation_eval.py # Generation evaluation
-├── get_info_chat_history.py # Chat history utilities
-├── create_suggestions/ # Suggestion generation system
-└── lib/ # Library files and documentation
+├── main.py                         # Giao diện chính và điều khiển Streamlit
+├── cache_communicate/             
+│ └── caching_communicate.py        # Cache manager với dual-thread
+├── models/                         
+│ ├── llm.py                        # LLM interface và functions
+│ └── embedder.py                   # Embedding model configuration
+├── retriever/                      
+│ └── retriever.py                  # Hybrid retriever (FAISS + BM25)
+├── rerank/                         
+│ └── reranker.py                   # Cross-encoder reranker
+├── chunks_data/                    
+│ ├── load_data.py                  # Data loading utilities
+│ └── split_chunks.py               # Document chunking methods
+├── benchmark_RAG/                  
+│ ├── simulation_data_for_eval/     # Test data for evaluation
+│ └── results_eval/                 # Evaluation results
+├── ragas_eval.py                   # RAGAS evaluation pipeline
+├── retrieval_eval.py               # Retrieval evaluation
+├── generation_eval.py              # Generation evaluation
+├── get_info_chat_history.py        # Chat history utilities
+├── create_suggestions/             # Suggestion generation system
+└── lib/                            # Library files and documentation
 ```
 
 ## ⚙️ Cài đặt và Chạy dự án
 
 ### **1. Yêu cầu hệ thống:**
-- Python 3.8+
+- Python 3.10+
 - Ollama server
 - GPU (khuyến nghị cho embedding và reranking)
 
