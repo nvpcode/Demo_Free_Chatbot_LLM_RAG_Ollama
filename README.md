@@ -7,8 +7,8 @@ Một hệ thống chatbot RAG tiên tiến tích hợp mô hình ngôn ngữ l�
 Xây dựng một chatbot thông minh có khả năng:
 - Truy xuất và trả lời chính xác từ tài liệu người dùng cung cấp
 - Sử dụng cache thông minh để tối ưu hiệu suất
-- Đánh giá chất lượng câu trả lời tự động
 - Hỗ trợ đa dạng định dạng tài liệu và phương pháp xử lý
+- Đánh giá chất lượng chatbot RAG
 
 
 ## 🧠 Kiến trúc hệ thống
