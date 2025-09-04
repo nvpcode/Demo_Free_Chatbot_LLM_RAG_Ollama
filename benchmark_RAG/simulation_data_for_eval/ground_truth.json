@@ -1,0 +1,15 @@
+[
+  {"question": "AI là gì?", "ground_truth": ["doc1"]},
+  {"question": "Python dùng để làm gì?", "ground_truth": ["doc2", "doc8"]},
+  {"question": "SQL query ví dụ?", "ground_truth": ["doc3"]},
+  {"question": "Chatbot RAG hoạt động thế nào?", "ground_truth": ["doc5"]},
+  {"question": "Dịch vụ cloud phổ biến hiện nay?", "ground_truth": ["doc6"]},
+  {"question": "Triển khai ứng dụng bằng Docker ở đâu?", "ground_truth": ["doc7"]},
+  {"question": "Linux thường được dùng cho mục đích gì?", "ground_truth": ["doc9"]},
+  {"question": "CI/CD mang lại lợi ích gì?", "ground_truth": ["doc10"]},
+  {"question": "Deep learning khác machine learning thế nào?", "ground_truth": ["doc11", "doc12"]},
+  {"question": "Công nghệ xử lý dữ liệu lớn?", "ground_truth": ["doc15"]},
+  {"question": "Framework nào dùng cho deep learning?", "ground_truth": ["doc4", "doc11"]},
+  {"question": "An ninh mạng có vai trò gì?", "ground_truth": ["doc14"]},
+  {"question": "Các giao thức mạng cơ bản?", "ground_truth": ["doc13"]}
+]

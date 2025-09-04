@@ -1,0 +1,57 @@
+📘 Tài liệu Hỏi – Đáp về AI, RAG và Công nghệ
+1. AI là gì?
+
+AI là trí tuệ nhân tạo, cho phép máy móc học và suy nghĩ như con người.
+
+2. Python dùng để làm gì?
+
+Python là ngôn ngữ lập trình phổ biến, dùng cho AI và khoa học dữ liệu.
+
+Pandas và NumPy là thư viện phân tích dữ liệu trong Python.
+
+3. SQL query ví dụ?
+
+SQL được dùng để truy vấn cơ sở dữ liệu quan hệ.
+
+4. Chatbot RAG hoạt động thế nào?
+
+Chatbot sử dụng RAG kết hợp retrieval (truy xuất dữ liệu) và generation (tạo văn bản).
+
+5. Dịch vụ cloud phổ biến hiện nay?
+
+AWS và Azure là nền tảng điện toán đám mây phổ biến.
+
+6. Triển khai ứng dụng bằng Docker ở đâu?
+
+Docker và Kubernetes hỗ trợ triển khai ứng dụng ở môi trường production.
+
+7. Linux thường được dùng cho mục đích gì?
+
+Linux là hệ điều hành mã nguồn mở, thường dùng cho server.
+
+8. CI/CD mang lại lợi ích gì?
+
+CI/CD giúp tự động hóa build, test và deploy phần mềm.
+
+9. Deep learning khác machine learning thế nào?
+
+Deep learning sử dụng mạng neural nhiều tầng để học đặc trưng phức tạp.
+
+Machine learning bao gồm supervised learning và unsupervised learning.
+
+10. Công nghệ xử lý dữ liệu lớn?
+
+Big Data đề cập đến xử lý dữ liệu lớn với Hadoop và Spark.
+
+11. Framework nào dùng cho deep learning?
+
+TensorFlow và PyTorch là framework cho học sâu.
+Deep learning sử dụng mạng neural nhiều tầng để học đặc trưng phức tạp.
+
+12. An ninh mạng có vai trò gì?
+
+An ninh mạng tập trung vào bảo mật dữ liệu và phòng chống tấn công.
+
+13. Các giao thức mạng cơ bản?
+
+Mạng máy tính bao gồm TCP/IP, routing và switching.
